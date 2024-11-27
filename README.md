@@ -24,6 +24,7 @@ __Tools__ contains services, apps, references, and specific tools that help lear
 
 ## Learning:
 - [KhanAcademy](https://www.khanacademy.org) - _Free_ __Web, iOS__ - Courses in many different subjects. Can be used solo, or be used to teach a class, with tools for a teacher to monitor the class's progress.
+- [Yagc](https://yagc.tahriver.online) - _Free_ __Web__ - YAGC is a dynamic mobile learning platform designed to enhance educational experiences. It provides users with access to a variety of resources, enabling learning on-the-go and fostering a flexible approach to education.
 
 ## Tools:
 - [Classroom/Course Management](#classroomcourse-management)
